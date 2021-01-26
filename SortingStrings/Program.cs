@@ -7,7 +7,6 @@ namespace SortingString
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             Sorter sorter = new Sorter();
             var sorted = sorter.Sort("Contrary to popular belief, the pink unicorn flies east.");
 
